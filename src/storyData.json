@@ -1,0 +1,35 @@
+{
+  "videoTitle": "AI Generated 3D Story",
+  "scenes": [
+    {
+      "id": 1,
+      "duration": 90,
+      "bgColor": "#0d1117",
+      "lightColor": "#ffaa55",
+      "objectType": "box",
+      "objectColor": "#B5543A",
+      "cameraZ": 5,
+      "rotationSpeed": 0.04
+    },
+    {
+      "id": 2,
+      "duration": 90,
+      "bgColor": "#1a0b1c",
+      "lightColor": "#00f2fe",
+      "objectType": "sphere",
+      "objectColor": "#4facfe",
+      "cameraZ": 4,
+      "rotationSpeed": 0.06
+    },
+    {
+      "id": 3,
+      "duration": 90,
+      "bgColor": "#0f2027",
+      "lightColor": "#ff0844",
+      "objectType": "torus",
+      "objectColor": "#ffb199",
+      "cameraZ": 4.5,
+      "rotationSpeed": 0.05
+    }
+  ]
+}
